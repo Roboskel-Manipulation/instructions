@@ -12,5 +12,4 @@ To convert a rosbag to a .csv:
 # Visualization
 To run the vizualization example:
 - In a terminal navigate to this repo
-- Run `jupyter notebook`
-- In the notebook in your browser, open the `plot.ipynb` file and run it
+- Run `jupyter notebook plot.ipynb`
