@@ -4,9 +4,8 @@
 Convert a rosbag to csv and a visualization example using the Plotly library in Jupyter Notebook
 
 # Rosbag to CSV
-To convert a rosbag to a .csv:
+To convert a rosbag to a CSV file:
 - Clone the [rosbag_pandas](https://github.com/eurogroep/rosbag_pandas)
-- Navigate to ~/path_to_catkin_ws/src/rosbag_pandas/scripts
 - Run `bag_to_csv -b ~/path_to_rosbag_input.bag -o ~/path_to_csv_output.csv`
 
 # Visualization
